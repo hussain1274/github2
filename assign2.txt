@@ -1,0 +1,3 @@
+today we learn about the commonds on gitbash
+in this we learn about stright forwrad and recurcive branching
+i am hussain 
